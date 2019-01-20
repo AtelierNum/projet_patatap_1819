@@ -35,7 +35,6 @@ J’ai décidé d’orienter mon patatap sur les couleurs. Je voulais me rapproc
 [Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Thierry_Julie/index.html)
 
 
-
 ## Emilie Schaeffer  
 
 <img src="Schaeffer_Emilie/monpatatap.gif" width="400" height="240" />
@@ -45,6 +44,27 @@ Mon patatap s'inspire de l'univers graphique et sonore du groupe français Polo 
 C'est pourquoi j'ai choisi ce thème comme fil rouge, sans proposer de scénario en particulier, (aussi décousu que les morceaux de Polo&Pan) mais en favorisant la découverte aléatoire de mon patatap.
 
 [Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Schaeffer_Emilie/index.html)
+
+
+## Raphael Perraud  
+
+<img src="Perraud_Raphael/patatap.gif" width="400" height="240" />
+
+Sound ambiance of a record session, w/ some licks and sounds mostly jazz & blues, this project try to give a visual representation to each of them, and transmit the agitation of this moments. Almost cacophonous, but suffused with the energy of the musicians, the ambient disorder of this project represents this sessions of sound creation in full boiling.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Perraud_Raphael/index.html)
+
+
+## Arslan Sifaoui  
+
+<img src="Sifaoui_Arslan/patatap_a.sifaoui.gif" width="400" height="240" />
+
+Pour mon patatap je voulais un ambiance visuellement douce à l'image des svg morph du Patatap d'origine. C'est pour cela que j'ai associé couleur pastel et formes arrondis. Je voulais également que les sons illustrent les animations et vice versa. 
+Et qu'elles puissent toutes jouer ensembles sans se gêner aussi bien avec le sons que visuellement. 
+L'ambiance sonore est varié, elle mélange sons "neutres" et "percusifs" comme des kicks, woosh, snap ... et petites mélodie instrumentales et permet donc la tentative de créations de mélodies. 
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Sifaoui_Arslan/index.html)
+
 
 
 
