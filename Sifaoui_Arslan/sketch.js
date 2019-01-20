@@ -167,32 +167,32 @@ var pg // créer un calque > flou sur stab4 + double_random
 
 
 function preload() {
-    piano1 = loadSound("../assets/piano1.wav"); //'e' == piano1 + tubine_2
-    shaker1 = loadSound("../assets/shaker_africa1.wav"); //'g' shaker 1 + geometrielines
-    stab2 = loadSound("../assets/clac.wav"); //'a' == stab2 + color_react_white
-    stab3 = loadSound("../assets/kick01.wav"); // 'z' == stab3 + color_react_blue
-    stab6 = loadSound("../assets/195744__deleted-user-2195044__mod-pad.wav") // 'x' == stab6 + snow_partcle_blue
-    kalimba1 = loadSound("../assets/kalimba_africa1.wav") // 'c' == kalimba + clean_ellipse
-    whoosh1 = loadSound("../assets/whoosh_pair.flac") //'l' == whoosh1 + sine
-    stab4 = loadSound("../assets/2326__jovica__stab-001-mastered-16-bit.wav") //'r' == stab4 + double_random
-    stab5 = loadSound("../assets/levitating.wav"); //'t' == stab5 + sin_cosine
-    wave1 = loadSound("../assets/wave.wav"); //'k' == wave1 + sinewave
-    stab1 = loadSound("../assets/15488__djgriffin__tibetan-chant-4-colargol-2.mp3") // //'s' == stab1 + linear
-    harp = loadSound("../assets/harp2658.wav") // 'v' == harp + polar_circle
-    wave2 = loadSound("../assets/sine_wave.wav"); //'f' wave2 = rotation point
-    synth1 = loadSound("../assets/bemol_synth.wav") //'n' == synth1 + wavemarker
-    drone2 = loadSound("../assets/soft_pad.wav") // 'b' == drone2 + waveform
-    kora2 = loadSound("../assets/kora.wav") //'m' == kora2 + wavemarker
-    drone1 = loadSound("../assets/217490__jarredgibb__drone-002.wav") // 'j' == drone1 + ellipse
-    harp4 = loadSound("../assets/harp4.wav") // 'y' == harp4 + polar_point
-    drone10 = loadSound("../assets/drone10.wav") //'u' == drone10  + sine copy
-    stab21 = loadSound("../assets/2330__jovica__stab-005-mastered-16-bit.wav") //'q' == stab21 + scale
-    song = loadSound("../assets/kick_118.wav"); // 'i'== song + ellipse_analyzer
-    stab7 = loadSound("../assets/24786__young-daddy__clap-mix.wav") // 'w' == stab7 + snow_partcle_white
-    stab8 = loadSound("../assets/stab8.wav") //'p' == stab8+ double_random
-    celtic19 = loadSound("../assets/celtic-meral.wav"); //'o' == celtic1 + sinewave
-    trap1 = loadSound("../assets/trap1.wav"); //'d' == trap1 + color_react_pink
-    snap1 = loadSound("../assets/snap.wav") //'h' == snap1 / fast ellispse clap
+    piano1 = loadSound("assets/piano1.wav"); //'e' == piano1 + tubine_2
+    shaker1 = loadSound("assets/shaker_africa1.wav"); //'g' shaker 1 + geometrielines
+    stab2 = loadSound("assets/clac.wav"); //'a' == stab2 + color_react_white
+    stab3 = loadSound("assets/kick01.wav"); // 'z' == stab3 + color_react_blue
+    stab6 = loadSound("assets/195744__deleted-user-2195044__mod-pad.wav") // 'x' == stab6 + snow_partcle_blue
+    kalimba1 = loadSound("assets/kalimba_africa1.wav") // 'c' == kalimba + clean_ellipse
+    whoosh1 = loadSound("assets/whoosh_pair.flac") //'l' == whoosh1 + sine
+    stab4 = loadSound("assets/2326__jovica__stab-001-mastered-16-bit.wav") //'r' == stab4 + double_random
+    stab5 = loadSound("assets/levitating.wav"); //'t' == stab5 + sin_cosine
+    wave1 = loadSound("assets/wave.wav"); //'k' == wave1 + sinewave
+    stab1 = loadSound("assets/15488__djgriffin__tibetan-chant-4-colargol-2.mp3") // //'s' == stab1 + linear
+    harp = loadSound("assets/harp2658.wav") // 'v' == harp + polar_circle
+    wave2 = loadSound("assets/sine_wave.wav"); //'f' wave2 = rotation point
+    synth1 = loadSound("assets/bemol_synth.wav") //'n' == synth1 + wavemarker
+    drone2 = loadSound("assets/soft_pad.wav") // 'b' == drone2 + waveform
+    kora2 = loadSound("assets/kora.wav") //'m' == kora2 + wavemarker
+    drone1 = loadSound("assets/217490__jarredgibb__drone-002.wav") // 'j' == drone1 + ellipse
+    harp4 = loadSound("assets/harp4.wav") // 'y' == harp4 + polar_point
+    drone10 = loadSound("assets/drone10.wav") //'u' == drone10  + sine copy
+    stab21 = loadSound("assets/2330__jovica__stab-005-mastered-16-bit.wav") //'q' == stab21 + scale
+    song = loadSound("assets/kick_118.wav"); // 'i'== song + ellipse_analyzer
+    stab7 = loadSound("assets/24786__young-daddy__clap-mix.wav") // 'w' == stab7 + snow_partcle_white
+    stab8 = loadSound("assets/stab8.wav") //'p' == stab8+ double_random
+    celtic19 = loadSound("assets/celtic-meral.wav"); //'o' == celtic1 + sinewave
+    trap1 = loadSound("assets/trap1.wav"); //'d' == trap1 + color_react_pink
+    snap1 = loadSound("assets/snap.wav") //'h' == snap1 / fast ellispse clap
 
 
 }
