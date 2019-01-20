@@ -70,7 +70,7 @@ L'ambiance sonore est varié, elle mélange sons "neutres" et "percusifs" comme 
 
 ## Jeanne Verstraete
 
-<img src="Verstraet_Jeanne/code.gif" width="400" height="240" />
+<img src="Verstraete_Jeanne/code.gif" width="400" height="240" />
 
 J’ai réalisé mon patatap sur le thème de la musique classique, il est en noir et blanc car je trouve que cela représente bien ce type de musique. J’ai choisi des tonalités très différentes les unes des autres (très calmes, très fortes, tristes, joyeuses…), libre à chacun de s’approprier et de fouiller dans le patatap pour faire une mélodie qui lui plaît (certains sons associés forment des morceaux de musique connus). Mon but était de montrer le côté hétéroclite de la musique classique et les différentes émotions qu’elle peut véhiculer.
 
