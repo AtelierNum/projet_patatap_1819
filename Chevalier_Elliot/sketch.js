@@ -42,32 +42,32 @@ var ytarget = []
 
 
 function preload() {
-    sound1 = loadSound("../assets/ambiance1.wav");
-    sound2 = loadSound("../assets/ambiance2.wav");
-    sound3 = loadSound("../assets/ambiance3.wav");
-    sound4 = loadSound("../assets/bassline1.wav");
-    sound5 = loadSound("../assets/bassline2.wav");
-    sound6 = loadSound("../assets/bassline3.wav");
-    sound7 = loadSound("../assets/bassline4.wav");
-    sound8 = loadSound("../assets/bassline5.wav");
-    sound9 = loadSound("../assets/kick1.wav");
-    sound10 = loadSound("../assets/kick2.wav");
-    sound11 = loadSound("../assets/kick3.wav");
-    sound12 = loadSound("../assets/kick4.wav");
-    sound13 = loadSound("../assets/kick5.wav");
-    sound14 = loadSound("../assets/kick6.wav");
-    sound15 = loadSound("../assets/kick7.wav");
-    sound16 = loadSound("../assets/noise1.wav");
-    sound17 = loadSound("../assets/noise2.wav");
-    sound18 = loadSound("../assets/noise3.wav");
-    sound19 = loadSound("../assets/perc1.wav");
-    sound20 = loadSound("../assets/perc2.wav");
-    sound21 = loadSound("../assets/perc3.wav");
-    sound22 = loadSound("../assets/perc4.wav");
-    sound23 = loadSound("../assets/synth1.wav");
-    sound24 = loadSound("../assets/synth2.wav");
-    sound25 = loadSound("../assets/synth3.wav");
-    sound26 = loadSound("../assets/synth4.wav");
+    sound1 =  loadSound("assets/ambiance1.wav");
+    sound2 =  loadSound("assets/ambiance2.wav");
+    sound3 =  loadSound("assets/ambiance3.wav");
+    sound4 =  loadSound("assets/bassline1.wav");
+    sound5 =  loadSound("assets/bassline2.wav");
+    sound6 =  loadSound("assets/bassline3.wav");
+    sound7 =  loadSound("assets/bassline4.wav");
+    sound8 =  loadSound("assets/bassline5.wav");
+    sound9 =  loadSound("assets/kick1.wav");
+    sound10 = loadSound("assets/kick2.wav");
+    sound11 = loadSound("assets/kick3.wav");
+    sound12 = loadSound("assets/kick4.wav");
+    sound13 = loadSound("assets/kick5.wav");
+    sound14 = loadSound("assets/kick6.wav");
+    sound15 = loadSound("assets/kick7.wav");
+    sound16 = loadSound("assets/noise1.wav");
+    sound17 = loadSound("assets/noise2.wav");
+    sound18 = loadSound("assets/noise3.wav");
+    sound19 = loadSound("assets/perc1.wav");
+    sound20 = loadSound("assets/perc2.wav");
+    sound21 = loadSound("assets/perc3.wav");
+    sound22 = loadSound("assets/perc4.wav");
+    sound23 = loadSound("assets/synth1.wav");
+    sound24 = loadSound("assets/synth2.wav");
+    sound25 = loadSound("assets/synth3.wav");
+    sound26 = loadSound("assets/synth4.wav");
 }
 
 function setup() {
