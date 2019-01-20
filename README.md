@@ -246,3 +246,23 @@ Mon patatap contient d’une part un univers de personnage de dessins animés et
 [Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Guegan_Allan/index.html)
 
 
+## Zafra Anael
+
+<img src="Zafra_anael/patatap.gif" width="400" height="240" />
+
+La sélection des sons est très particuliere. J'ai fais le choix de ne pas prende un thème mais plutôt de faire en sorte que le patatap me représente à travers différents éléments dont les sons. Ces derniers sont les débuts de musiques de ma playlist personnelle. Quand aux couleurs (orange, rouge et blanc), il s'agit de celles qui me représente le plus et que je met dans la plus part de mes projets.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Zafra_Anael/index.html)
+
+
+## Briolat Alice
+
+<img src="Briolat_Alice/patatap.gif" width="400" height="240" />
+
+Le but était de réaliser un son et une animation pour chaque touche du clavier (lettres de l’alphabet). J’ai donc réalisé les 26sons qui sont lié à la route, la circulation et le boucan qu’il s’en dégage. Lorsque l’on touche alors les 26 touches en même temps on y ressort un boucan monstre ponctué de sons de camions, voiture et des références au feu de circulation ou à la circulation. 
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Briolat_Alice/index.html)
+
+
+
+
