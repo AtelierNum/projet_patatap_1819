@@ -264,5 +264,17 @@ Le but était de réaliser un son et une animation pour chaque touche du clavier
 [Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Briolat_Alice/index.html)
 
 
+## Chopineaux Ronan
+
+<img src="Chopineaux_Ronan/patatap.gif" width="400" height="240" />
+
+J'ai choisi de baser mon projet sur une musique entière (Sunset Lover de Petit Biscuit), afin de garantir une même tonalité et un même tempo, donnant ainsi une harmonie générale au patatap. 
+Cela permet, en combinant tous les éléments de rejouer la musqiue originale ou la réaranger à sa guise.
+Pour marier les animations au morceau, je suis resté dans des motifs minimalistes, rappellant l'éléctro ou encore les néons, avec seulement 3 couleurs différentes.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Chopineaux_Ronan/index.html)
+
+
+
 
 
