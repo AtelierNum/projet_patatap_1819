@@ -1,6 +1,6 @@
 
 # projet_patatap_1819
-This repo holds the code for a creative coding class with p5js taught @lecolededesign : students were asked to create a webpage holding 26 sounds and 26 animation - on for each letter of the alphabet. Using as an inspiration : https://www.patatap.com/
+This repo holds the code for a creative coding class with [p5js](https://p5js.org/) taught [@lecolededesign](https://www.lecolededesign.com/) : students were asked to create a webpage holding 26 sounds and 26 animation - on for each letter of the alphabet. Using as an inspiration : [patatap](https://www.patatap.com/)
 
 ## Simon Heurtebise
 
@@ -51,6 +51,7 @@ C'est pourquoi j'ai choisi ce thème comme fil rouge, sans proposer de scénario
 
 ## Elliot Chevalier
 
+<img src="Chevalier_Elliot/Patatap.gif" width="400" height="240" />
 
 [Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Chevalier_Elliot/index.html)
 

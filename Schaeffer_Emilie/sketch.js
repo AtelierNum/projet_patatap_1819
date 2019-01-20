@@ -67,33 +67,33 @@ var song29;
 
 
 function preload() {
-    song1 = loadSound("../assets/cdartichaud1.wav"); //2s
-    song2 = loadSound("../assets/nana3.wav"); //4s
-    song3 = loadSound("../assets/cdartichaud2.wav"); //0s
-    song4 = loadSound("../assets/paysimaginaire1.wav"); //2s
-    song5 = loadSound("../assets/nana2.wav"); //15s
-    song6 = loadSound("../assets/cdartichaud3.wav"); // 1s
-    song7 = loadSound("../assets/cdartichaud4.wav"); // 2s
-    song8 = loadSound("../assets/canope1.wav"); // 2s
-    song9 = loadSound("../assets/canope2.wav"); // 2s
-    song10 = loadSound("../assets/canope3.wav"); // 2s
-    song12 = loadSound("../assets/paysimaginaire6.wav"); // 2s
-    song13 = loadSound("../assets/paysimaginaire5.wav");
-    song14 = loadSound("../assets/paysimaginaire3.wav");
-    song15 = loadSound("../assets/nana1.wav");
-    song16 = loadSound("../assets/nana4.wav");
-    song17 = loadSound("../assets/paysimaginaire2.wav");
-    song18 = loadSound("../assets/paysimaginaire4.wav");
-    song19 = loadSound("../assets/abysses1.wav");
-    song20 = loadSound("../assets/arcenciel1.wav");
-    song23 = loadSound("../assets/arcenciel4.wav");
-    song24 = loadSound("../assets/arcenciel5.wav");
-    song25 = loadSound("../assets/arcenciel6.wav");
-    song26 = loadSound("../assets/arcenciel7.wav");
-    song27 = loadSound("../assets/chasseur1.wav");
-    song28 = loadSound("../assets/chasseur2.wav");
-    song29 = loadSound("../assets/chasseur3.wav");
-    song30 = loadSound("../assets/chasseur4.wav");
+    song1 =  loadSound("assets/cdartichaud1.wav"); //2s
+    song2 =  loadSound("assets/nana3.wav"); //4s
+    song3 =  loadSound("assets/cdartichaud2.wav"); //0s
+    song4 =  loadSound("assets/paysimaginaire1.wav"); //2s
+    song5 =  loadSound("assets/nana2.wav"); //15s
+    song6 =  loadSound("assets/cdartichaud3.wav"); // 1s
+    song7 =  loadSound("assets/cdartichaud4.wav"); // 2s
+    song8 =  loadSound("assets/canope1.wav"); // 2s
+    song9 =  loadSound("assets/canope2.wav"); // 2s
+    song10 = loadSound("assets/canope3.wav"); // 2s
+    song12 = loadSound("assets/paysimaginaire6.wav"); // 2s
+    song13 = loadSound("assets/paysimaginaire5.wav");
+    song14 = loadSound("assets/paysimaginaire3.wav");
+    song15 = loadSound("assets/nana1.wav");
+    song16 = loadSound("assets/nana4.wav");
+    song17 = loadSound("assets/paysimaginaire2.wav");
+    song18 = loadSound("assets/paysimaginaire4.wav");
+    song19 = loadSound("assets/abysses1.wav");
+    song20 = loadSound("assets/arcenciel1.wav");
+    song23 = loadSound("assets/arcenciel4.wav");
+    song24 = loadSound("assets/arcenciel5.wav");
+    song25 = loadSound("assets/arcenciel6.wav");
+    song26 = loadSound("assets/arcenciel7.wav");
+    song27 = loadSound("assets/chasseur1.wav");
+    song28 = loadSound("assets/chasseur2.wav");
+    song29 = loadSound("assets/chasseur3.wav");
+    song30 = loadSound("assets/chasseur4.wav");
 
 
 
