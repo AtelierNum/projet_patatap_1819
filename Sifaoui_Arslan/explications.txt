@@ -1,0 +1,26 @@
+PRIMAIRE
+
+Univers: 
+
+Pour mon patatap je voulais un ambiance visuellement douce à l'image des svg morph du Patatap d'origine. C'est pour cela que j'ai associé couleur pastel et formes arrondis. Je voulais également que les sons illustrent les animations et vice versa. 
+Et qu'elles puissent toutes jouer ensembles sans se gêner aussi bien avec le sons que visuellement. 
+L'ambiance sonore est varié, elle mélange sons "neutres" et "percusifs" comme des kicks, woosh, snap ... et petites mélodie instrumentales et permet donc la tentative de créations de mélodies. 
+
+
+
+SECONDAIRE
+
+Méthodologie : 
+
+1. J'ai procédé en créant des animations associées à du sons à partir du cours, de la bibliothèques P5 et de code Pen. J'ai ainsi appréhender le code en recopiant et en manipulant des exemples. 
+2. Puis j'ai mélangé certaines fonctions et var entre elles.
+3. J'ai choisis des sons de manière à ce que chaque animations soit cohérente individuellement. 
+4. Je les ai ensuite réunis entre elle et j'ai débogué le code au fur et à mesure en choisissant leurs positions respectives.
+5. J'ai enfin sélectionné changé et rogné les sons pour que le tout soit cohérent et personnel.
+
+
+Contraintes, formes et couleurs : 
+
+1.Pour la réalisation de mon Patatap j'ai cherché à n'avoir que des formes aux rebords arrondis.
+2. J'ai choisis de n'utiliser que 2 couleurs (204,255,255) & (255,204,255) + 2 nuances fill(255) & backgrond(180. 
+

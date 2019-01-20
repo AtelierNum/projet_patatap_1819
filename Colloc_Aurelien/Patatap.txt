@@ -1,0 +1,35 @@
+Patatap
+L’univers de mon Patatap s’inspire de l’univers «New Rétro Wave*»des années 80 avec les néons, le coté «rétrogaming» ou encore l’ambiance «Miami Vice» et le jeux de couleurs fluo de l’atmosphère rétro-futuriste. (rose, violet, rouge, bleu, blanc)
+New Rétro wave*(connu sous d’autres noms): synthwave, Outrun, rétro wave, *
+Liens univers :
+SITE                                                -http://www.retro-synthwave.com/
+VIDEOS,CLIPS
+-https://www.youtube.com/watch?v=rDBbaGCCIhk&t=72s&ab_channel=NewRetroWave
+-https://www.youtube.com/watch?v=er416Ad3R1g&ab_channel=CarpenterBrut
+IMAGES
+https://www.google.com/search?rlz=1C1CHBF_frFR758FR758&biw=1920&bih=889&tbm=isch&sa=1&ei=JkY2XLOsHMTClwT_xI-ABw&q=IMAGINE+DRAGONS+POCHETTE&oq=IMAGINE+DRAGONS+POCHETTE&gs_l=img.3..0l2j0i8i30.15702.17832..18207...0.0..0.205.607.8j0j1......1....1..gws-wiz-img.......35i39j0i67j0i30j0i5i30.CRAZsLCeCdI#imgrc=xgaGDN3JOFeklM:
+
+https://www.google.com/search?rlz=1C1CHBF_frFR758FR758&biw=1920&bih=889&tbm=isch&sa=1&ei=OUY2XNilFcaZlwTB0aq4CQ&q=SHOW+LAZER&oq=SHOW+LAZER&gs_l=img.3..0i8i30j0i8i10i30l2j0i10i24.123959.126428..126693...0.0..1.65.499.10......2....1..gws-wiz-img.....0..0j35i39j0i67j0i30j0i5i30.7NAuhWKTrX4#imgrc=CFa4C2SYLxv63M:
+
+
+
+
+Liens sons (sources) :
+https://splice.com/features/sounds (sons: A Z E R T Y U I O P S G J K L M C V N)
+Autres :(Q D F H W X B)
+-https://www.youtube.com/watch?v=sdeEIEgo4D4
+-https://www.youtube.com/watch?v=x1NAhlVRaZ4
+-https://www.youtube.com/watch?v=vbamxVatGjI
+-https://www.youtube.com/watch?v=OATuijGzLE0
+-https://www.youtube.com/watch?v=nLzjm9E1hwg&ab_channel=neros77
+
+Liens code (sources) :
+S https://p5js.org/examples/math-additive-wave.html
+G https://p5js.org/examples/simulate-snowflakes.html
+V https://p5js.org/examples/math-polartocartesian.html
+N https://p5js.org/examples/interaction-wavemaker.html
+
+
+
+
+Aurelien colloc I2A

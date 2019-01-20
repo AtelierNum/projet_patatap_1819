@@ -1,0 +1,7 @@
+Alice BRIOLAT I2B 
+Patatap 2018 2019
+
+Explication du projet : 
+Le but était de réaliser un son et une animation pour chaque touche du clavier (lettres de l’alphabet). J’ai donc réalisé les 26sons qui sont lié à la route, la circulation et le boucan qu’il s’en dégage. Lorsque l’on touche alors les 26 touches en même temps on y ressort un boucan monstre ponctué de sons de camions, voiture et des références au feu de circulation ou à la circulation. 
+
+Ce fût un projet difficile car nous ne connaissions pas ce langage et il a alors été compliqué de ce l’approprié pour un travail comme celui-là. Cependant, une fois finit il est drôle de se rendre compte que c’était sûrement le meilleur moyen de nous plonger dedans et d’en apprendre les fondamentaux.

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patitap</title>
+    <link rel="shortcut icon" type="image/png" href="favicon.png" />
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Fira+Sans:600i');
+
+        body {
+
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        canvas {
+            margin: auto;
+        }
+
+        div {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            /* à 50%/50% du parent référent */
+            transform: translate(-50%, -50%);
+            /* décalage de 50% de sa propre taille */
+            size: 3rem;
+            color: rgb(220, 220, 220);
+            border-radius: 10px;
+            border: none;
+            line-height: 30px;
+            ;
+            text-align: center;
+            font-family: 'Fira Sans', sans-serif;
+            font-weight: 600;
+        }
+    </style>
+    <script src="../p5/p5.min.js"></script>
+    <script src="../p5/addons/p5.dom.min.js"></script>
+    <script src="../p5/addons/p5.sound.min.js"></script>
+  <!--  <script src="p5/CCapture.all.min.js"></script>
+    <script src="p5/gif.worker.js"></script>
+   <script>
+       var Capturer = new CCapture({
+            framerate: 60,
+            verbose: true,
+            format: 'gif',
+            workersPath: './worker/'
+        });
+    </script>-->
+
+
+    <script src="sketch.js"></script>
+    <script src="biscotte.js"></script>
+    <script src="Spring.js"></script>
+</head>
+
+<body>
+    <div id="instructions">Turn up speakers. </br>
+        Press any key, A to Z to play a sound.</br>
+        Press enter to activate loop for the backing tracks A, Z, E or R.
+    </div>
+</body>
+</html>

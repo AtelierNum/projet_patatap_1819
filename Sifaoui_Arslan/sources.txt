@@ -1,0 +1,80 @@
+'e' == piano1 + tubine_2
+codePen (ressource_introuvable)
+
+'g' shaker 1 + geometrielines
+https://codepen.io/hazzer12345/pen/PmqVxv
+
+'a' == stab2 + color_react_white
+https://github.com/b2renger/p5js_codecreatif
+
+'z' == stab3 + color_react_blue
+https://github.com/b2renger/p5js_codecreatif
+
+'x' == stab6 + snow_partcle_blue
+
+'c' == kalimba + clean_ellipse 
+https://github.com/b2renger/p5js_codecreatif
+
+'l' == whoosh1 + sine
+
+'r' == stab4 + double_random
+
+'t' == stab5 + sin_cosine
+https://p5js.org/examples/math-sine-cosine.html
+
+'k' == wave1 + sinewave
+https://p5js.org/examples/math-sine-wave.html
+
+'s' == stab1 + linear
+
+'v' == harp + polar_circle
+https://github.com/b2renger/p5js_codecreatif
+
+'f' wave2 = rotation point 
+https://codepen.io/pizza3/pen/rjaPNY
+
+'n' == synth1 + wavemarker
+https://p5js.org/examples/interaction-wavemaker.html
+
+'b' == drone2 + waveform
+https://github.com/b2renger/p5js_codecreatif
+
+'m' == kora2 + wavemarker
+https://p5js.org/examples/interaction-wavemaker.html
+
+'j' == drone1 + ellipse
+
+'y' == harp4 + polar_point
+https://github.com/b2renger/p5js_codecreatif
+
+'u' == drone10  + sine copy
+
+'q' == stab21 + scale 
+https://p5js.org/examples/transform-scale.html
+
+'i'== song + ellipse_analyzer
+https://github.com/b2renger/p5js_codecreatif
+
+'w' == stab7 + snow_partcle_white
+
+'p' == stab8+ double_random
+https://p5js.org/examples/math-double-random.html
+
+'o' == celtic1 + sinewave
+
+'d' == trap1 + color_react_pink
+https://github.com/b2renger/p5js_codecreatif
+
+'h' == snap1 / fast ellispse clap
+
+ 
+
+
+https://codepen.io/ CODEPEN
+http://www.lyceelecorbusier.eu/p5js/ LYCEE LE CORBUSIER
+https://p5js.org/ P5JS
+https://www.youtube.com/user/shiffman THE CODING TRAIN
+https://github.com/b2renger/p5js_codecreatif
+
+tout sons : https://freesound.org/  FREESOUND
+

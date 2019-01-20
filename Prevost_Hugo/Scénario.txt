@@ -1,0 +1,13 @@
+Patatap Hugo Prevost
+
+
+
+Scénario, histoire du Patatap :
+
+Ja suis partie sur thème techno, avec des couleurs qui font penser au soirée techno dans les année 90. La techno me semble un bon compromis pour allié plusieurs animation en même temps. Au niveau des différentes animation je suis resté sur des formes que l’on retrouve dans ces soirées.
+
+Sources sonore et du code :
+
+Source des sons musicradar, pack sample techno et pack sample house
+
+Source du code bibliothèque P5js, modification et personnalisation, avec des animations réalisé par Bérenger RECOULES

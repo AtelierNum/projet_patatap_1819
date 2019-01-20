@@ -1,0 +1,18 @@
+Ambient pad: Photek - The Rain
+bassfond: Photek - The Rain
+caustic1: Caustic Window - On the Romance Tip 
+caustic2: Caustic Window - On the Romance Tip
+caustic3: Caustic Window - Cordialtron
+caustic4: Caustic Window - Cordialtron
+caustic5: Caustic Window - The Garden of Linmiri
+final: Aphex Twin - Hedphelym
+italic: Caustic Window - Italic Eyeball
+lush: user18081971 - 8 lush ambulance 2
+lush2: AFX - Grumpy Acid
+rain2: Photek - The Rain
+rain3: Photek - The Rain
+reunion: AFX - Reunion 2
+ufo1: Photek - U.F.O
+ufo2: Photek - U.F.O
+
+Les sons non mentionnés proviennent de banques de sons.

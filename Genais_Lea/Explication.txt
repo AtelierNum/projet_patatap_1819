@@ -1,0 +1,4 @@
+J'ai voulu présenter le monde du jeu vidéo, plus particulièrement celui de league of legend.
+Tous les sons proviennent de 5 champions différents: Ahri, Sona, Kai'sa, Evelyn, elles ont toute un point commun qui est la musique.
+J'ai voulu marier au mieux son et animation en recopiant quelques mouvements que les champions ont lorsqu'ils attaquent, 
+cela à été compliquer car il fallait garder des animations simples. 

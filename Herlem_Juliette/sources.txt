@@ -1,0 +1,33 @@
+SOURCES :
+
+Sons :
+
+- A, Z, E, R, T, Y, U, K : "Faded" de Alan Walker, sorti en 2015 (musique électro)
+
+- X, B, O, P, S, D, L, W : https://freesound.org/ (Site gratuit pour télécharger des sons)
+
+- H : « sons "bruts" des 12 étoiles, transposés de 18 octaves » sur Youtube par Claude-Samuel LEVINE  
+le 11 Novembre 2013. https://www.youtube.com/watch?v=F4gczTKArwo&t=214s
+
+- M, J, F, Q, I : "The calling" de the FatRat, sorti en 2016 (musique électro)
+
+- X, C, V, N : https://www.myinstants.com/index/fr/ (Site gratuit pour télécharger des sons)
+
+
+
+Inspirations Code :
+
+https://github.com/b2renger/p5js_codecreatif
+https://p5js.org/examples/ 
+https://blog.kadenze.com/creative-technology/p5-js-crash-course-recreate-art-you-love/ 
+
+
+
+Inspirations graphique :
+
+- « Space tribe wall hanging » (peinture psychédélique avec lumière UV, couleur flashy et galaxie…) 
+https://spacetribe.com/collections/deco-uv-wallhangings 
+
+- Magdiel Lopez : un artiste imaginant et créant toute sorte d’affiche très colorée, psychédélique…
+https://www.instagram.com/magdiellop/
+http://www.magdiellopez.com/dailyposters/ 

@@ -1,0 +1,19 @@
+Sources :
+
+
+
+Musique : 
+
+
+"Sunset Lover", Petit Biscuit --> https://www.youtube.com/watch?v=wuCK-oiE3rM
+
+
+
+Animations : 
+
+
+Etoile examples P5js.org --> https://p5js.org/examples/form-star.html
+
+Exemple05 du cours sur GitHub --> https://github.com/b2renger/p5js_codecreatif/blob/master/exemple05/sketch.js
+
+

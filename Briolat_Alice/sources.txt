@@ -1,0 +1,8 @@
+Mes sources:
+
+Pour les sons:
+http://www.universal-soundbank.com/
+
+Quelques inspirations d’animation :
+https://blog.kadenze.com/creative-technology/p5-js-crash-course-recreate-art-you-love/
+https://p5js.org/reference/

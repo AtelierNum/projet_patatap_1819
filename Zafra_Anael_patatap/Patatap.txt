@@ -1,0 +1,31 @@
+Explication Patatap :
+La sélection des sons est très particuliere. J'ai fais le choix de ne pas prende un thème mais plutôt de faire en sorte que le patatap me représente à travers différents éléments dont les sons. Ces derniers sont les débuts de musiques de ma playlist personnelle. Quand aux couleurs (orange, rouge et blanc), il s'agit de celles qui me représente le plus et que je met dans la plus part de mes projets.
+Sources : 
+Pour les codes : 
+. Certains codes viennent directement du site P5js > examples : 
+https://p5js.org/examples/
+. D'autres viennent directement du cours : 
+https://github.com/b2renger/p5js_codecreatif#utiliser-une-biblioth%C3%A8que-externe-pour-cr%C3%A9er-des-animations-suppl%C3%A9mentaires
+. Le reste viennent de mes propres expérimentations .
+Pour les musiques (les lettres non citées sont des sons libre de droit): 
+. Z = https://www.youtube.com/watch?v=d9fslI7hLrg
+. E = https://www.youtube.com/watch?v=rymUSbYQjw8
+. T =  https://www.youtube.com/watch?v=qu9V8jhWeYA
+. Y = https://www.youtube.com/watch?v=TADq0i0gqT4
+. U = https://www.youtube.com/watch?v=EWb8oUwubWg
+. I = https://www.youtube.com/watch?v=g2oVAQqTaMI
+. O = https://www.youtube.com/watch?v=cKr5Qy-iopw
+. P = https://www.youtube.com/watch?v=0SVk3adkchY
+. Q = https://www.youtube.com/watch?v=ANS9sSJA9Yc
+. S = https://www.youtube.com/watch?v=F21qFTFlQPs
+. D = https://www.youtube.com/watch?v=kM3MNMrjhFM
+. G = https://www.youtube.com/watch?v=eieMcqVtYiY
+. H = https://www.youtube.com/watch?v=Q4Gquf0WKOo
+. J = https://www.youtube.com/watch?v=Q4Gquf0WKOo
+. K et L = https://www.youtube.com/watch?v=7bMYhJ_UqnE
+. M = https://www.youtube.com/watch?v=e31D9c2330o
+. W = https://www.youtube.com/watch?v=AsC2Sba-KAU
+. X = https://www.youtube.com/watch?v=J4CeMBz0Agk
+. C = https://www.youtube.com/watch?v=WYeAUpvWeI8
+. V = https://www.youtube.com/watch?v=fYwRsJAPfec
+

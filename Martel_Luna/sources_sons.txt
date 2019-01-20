@@ -1,0 +1,10 @@
+SOURCES SONS :
+
+https://www.sound-fishing.net/bruitages/animaux-de-la-ferme 
+
+https://lasonotheque.org/search?q=ferme
+
+http://www.universal-soundbank.com/nature.htm
+
+
+De plus je me suis inspirée de P5.js pour mes animations.

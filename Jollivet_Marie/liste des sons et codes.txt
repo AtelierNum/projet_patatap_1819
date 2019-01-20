@@ -1,0 +1,28 @@
+Lien des sons du patatap et lien vers les codes qui m’ont inspirés. 
+
+Son a : bbcsound 
+Son b : bbcsound
+Son c :http://bbcsfx.acropolis.org.uk/?q=glass
+Son d : http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip
+Son e : https://www.musicradar.com/news/tech/sampleradar-1338-free-female-vocal-samples-275492 chantréférence https://github.com/b2renger/p5js_codecreatif puis modificiation de la couleur
+Son f : http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip// animation touche F, cercle en poitillé référence : https://github.com/b2renger/p5js_codecreatif puis modification de la structure et des couleurs. 
+Son g : http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip // animation avec la touche G, la fleurs : https://p5js.org/examples/hello-p5-simple-shapes.html puis modifié 
+Son h : http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip  animation avec la touche H, base https://github.com/b2renger/p5js_codecreatif puis modifié.  
+Son i : http://bbcsfx.acropolis.org.uk/?q=photography+
+Son j :  http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip touche j, rectangle qui tourne code de base = https://editor.p5js.org/p5/sketches/By6zExJQO7 puis modification de tous les paramètres.
+Son k : https://freesound.org/people/Stewartcolbourn/sounds/368589/
+Son l : http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip
+Son m : https://www.musicradar.com/news/tech/sampleradar-1338-free-female-vocal-samples-275492 // animation avec la touche M,  https://github.com/b2renger/p5js_codecreatif puis modifier au niveau de la forme et l'épaisseur 
+Son n : http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip
+Son o : http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip
+Son p : https://freesound.org/people/dbspin/sounds/396671/
+Son q: http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip
+Son r : https://www.musicradar.com/news/tech/sampleradar-1338-free-female-vocal-samples-275492
+Son s: https://www.musicradar.com/news/tech/sampleradar-502-free-noise-hiss-and-crackle-samples-627134
+Son t: http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip
+Son u: http://bbcsfx.acropolis.org.uk/?q=kiss 
+Son v : http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip
+Son w : https://freesound.org/people/dbspin/sounds/396671/
+Son x : http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip // animation avec la touche X,  https://github.com/b2renger/p5js_codecreatif puis modifier au niveau de la forme et l'épaisseur
+Son y : http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip
+Son z : http://cdn.mos.musicradar.com/audio/samples/musicradar-jazz-groove-samples.zip

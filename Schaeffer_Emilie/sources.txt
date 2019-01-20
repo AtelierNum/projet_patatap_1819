@@ -1,0 +1,30 @@
+Sources sons:
+
+
+Abysses, de Polo & Pan:
+https://www.youtube.com/watch?v=kIXZbJOB_ro&t=20s
+
+Coeur d'artichaud, de Polo & Pan:
+https://www.youtube.com/watch?v=xF-3jOMGfAM
+
+Pays imaginaires, de Polo & Pan:
+https://www.youtube.com/watch?v=MA2rWlOZqLU
+
+Arc-en-ciel, de Polo & Pan:
+https://www.youtube.com/watch?v=2T3Cksysro0
+
+Canope, de Polo & Pan:
+https://www.youtube.com/watch?v=_om0W6xzQd8
+
+Nana, de Polo & Pan:
+https://www.youtube.com/watch?v=eMKqjO1jyGU
+
+Chasseur d'ivoire, de Polo & Pan:
+https://www.youtube.com/watch?v=sWWdhjZ8JTI
+
+
+Sources codes:
+
+
+étoile:
+https://p5js.org/examples/form-star.html
