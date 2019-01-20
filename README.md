@@ -180,17 +180,6 @@ Mon but était de créer un ensemble harmonieux, peu agressif au niveau des co
 [Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Mahe_Clara/index.html)
 
 
-## Clara Mahe
-
-<img src="Mahe_Clara/gif.gif" width="400" height="240" />
-
-A travers ces différentes animations, j’ai voulu réaliser un univers composé de formes géométriques simples, qui se répètent de différentes manières, ce qui créé un ensemble cohérents.
-Chaque animation possède une des six couleurs choisies ce qui créé une cohérence dans le visuel.
-Mon but était de créer un ensemble harmonieux, peu agressif au niveau des couleurs pour compenser avec le mouvement des animations.
-
-[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Mahe_Clara/index.html)
-
-
 ## Robin Exbrayat
 
 <img src="Exbrayat_Robin/Robin_Exbrayat.gif" width="400" height="240" />
@@ -239,7 +228,7 @@ Les sons sont donc tous électroniques, synthétiques, sur le thème de la galax
 
 ## Guegan Allan
 
-<img src="Guegan_Allan/animations.gif" width="400" height="240" />
+<img src="Guegan_Allan/patatap.gif" width="400" height="240" />
 
 Mon patatap contient d’une part un univers de personnage de dessins animés et de jeux vidéos. D’autre part, j’ai fait un univers plutôt divers. Je me suis servi de codes très simples, qui m’ont inspiré à faire des personnages célèbres ou des formes originales. 
 
@@ -248,7 +237,7 @@ Mon patatap contient d’une part un univers de personnage de dessins animés et
 
 ## Zafra Anael
 
-<img src="Zafra_anael/patatap.gif" width="400" height="240" />
+<img src="Zafra_Anael/patatap.gif" width="400" height="240" />
 
 La sélection des sons est très particuliere. J'ai fais le choix de ne pas prende un thème mais plutôt de faire en sorte que le patatap me représente à travers différents éléments dont les sons. Ces derniers sont les débuts de musiques de ma playlist personnelle. Quand aux couleurs (orange, rouge et blanc), il s'agit de celles qui me représente le plus et que je met dans la plus part de mes projets.
 
