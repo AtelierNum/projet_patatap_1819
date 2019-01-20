@@ -1,6 +1,8 @@
-
 # projet_patatap_1819
-This repo holds the code for a creative coding class with [p5js](https://p5js.org/) taught [@lecolededesign](https://www.lecolededesign.com/) : students were asked to create a webpage holding 26 sounds and 26 animation - on for each letter of the alphabet. Using as an inspiration : [patatap](https://www.patatap.com/)
+
+This repo holds the code for a creative coding class with [p5js](https://p5js.org/) taught [@lecolededesign](https://www.lecolededesign.com/) : students were asked to create a webpage holding 26 sounds and 26 animation - on for each letter of the alphabet. Using as an inspiration : [patatap](https://www.patatap.com/).
+
+Code is available [here](https://github.com/AtelierNum/projet_patatap_1819)
 
 ## Simon Heurtebise
 
@@ -65,6 +67,49 @@ L'ambiance sonore est varié, elle mélange sons "neutres" et "percusifs" comme 
 
 [Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Sifaoui_Arslan/index.html)
 
+
+## Jeanne Verstraete
+
+<img src="Verstraet_Jeanne/code.gif" width="400" height="240" />
+
+J’ai réalisé mon patatap sur le thème de la musique classique, il est en noir et blanc car je trouve que cela représente bien ce type de musique. J’ai choisi des tonalités très différentes les unes des autres (très calmes, très fortes, tristes, joyeuses…), libre à chacun de s’approprier et de fouiller dans le patatap pour faire une mélodie qui lui plaît (certains sons associés forment des morceaux de musique connus). Mon but était de montrer le côté hétéroclite de la musique classique et les différentes émotions qu’elle peut véhiculer.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Verstraete_Jeanne/index.html)
+
+
+## Aurore Tanguy
+
+<img src="Tanguy_Aurore/patatap.gif" width="400" height="240" />
+
+Le sujet de mon patata est la musique, mais plus particulièrement la partition. Chaque animation sera un symbole de partition.
+
+Pour la gamme de couleur, j’ai choisi du noir et un beige chaud (254, 253, 240), pour rappeler le papier ancien qu’on peut retrouver sur des partitions.
+
+Au niveau de la sonorité, de base je souhaitais reprendre que les instruments d’orchestre, mais pour plus de fantaisie, j’ai ajouté des instruments plus joyeux et dansants.
+
+Je mélange donc le classique et le jazz ainsi qu’un peu oriental pour obtenir un patatap simple, fun et éducatif pour ceux qui ne connaissent pas le solfège.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Tanguy_Aurore/index.html)
+
+## Hugo Prevost
+
+<img src="Prevost_Hugo/patatap.gif" width="400" height="240" />
+
+Je suis partie sur le thème de la musique techno, avec des couleurs qui font penser au soirée techno dans les année 90. La techno me semble un bon compromis pour allié plusieurs animation en même temps. Au niveau des différentes animation je suis resté sur des formes que l’on retrouve dans ces soirées.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Prevost_Hugo/index.html)
+
+## Luna Martel
+
+<img src="Martel_Luna/animation.gif" width="400" height="240" />
+
+L’univers de mon patatap tourne autour de sons et de bruits que nous pouvons entendre à la campagne et plus précisément, à la ferme; des sons en rapport avec les animaux : vache, canard, etc…, mais aussi des sons matériels tel que le clocher. 
+
+Pour les couleurs, je me suis basée sur un fond vert représentant la nature, et j’ai essayé de faire correspondre les couleurs de la réalité, comme le jaune pour le canard, marron pour le chien, etc… 
+
+De plus les quelqu’une des formes font pensées aux vrais animaux, tel que le cochon, ou bien le chat.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Martel_Luna/index.html)
 
 
 
