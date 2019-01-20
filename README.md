@@ -215,3 +215,34 @@ L’univers de mon Patatap s’inspire de l’univers «New Rétro Wave*»des an
 [Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Colloc_Aurelien/index.html)
 
 
+## Meriem Gharbi
+
+<img src="Gharbi_Meriem/patatap.gif" width="400" height="240" />
+
+Mon Patatap a pour thème les bonbons et plus précisément un mélange de bonbons (style haribo world mix).La couleur rose est omniprésente car elle représente la douceur et l’enfance mais il s’agit de même d’une référence à la barbe à papa. Les sons sont tous différents et plus au moins longs, car ils illustrent les différentes sensations que on a avec chaque bonbon, par exemple on ne savoure pas de la même façon un dragibus et une tête brûlée. Par conséquent, la mixités des sons et des animations évoque les différentes sensations et goût des confiseries.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Gharbi_Meriem/index.html)
+
+
+## Herlem Juliette
+
+<img src="Herlem_Juliette/animations.gif" width="400" height="240" />
+
+Je me suis inspirée des voyages psychédéliques dans l’espace, dans la galaxie (rêve, imagination), les couleurs sont donc flashy, avec du noir et du blanc.
+
+J’ai choisi de rester sur des animations et des représentations très graphiques, abstraites et géométriques comme on le voit beaucoup dans l’art psychédélique.
+
+Les sons sont donc tous électroniques, synthétiques, sur le thème de la galaxie, me faisant voyager dans l’espace infini.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Herlem_Juliette/index.html)
+
+
+## Guegan Allan
+
+<img src="Guegan_Allan/animations.gif" width="400" height="240" />
+
+Mon patatap contient d’une part un univers de personnage de dessins animés et de jeux vidéos. D’autre part, j’ai fait un univers plutôt divers. Je me suis servi de codes très simples, qui m’ont inspiré à faire des personnages célèbres ou des formes originales. 
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Guegan_Allan/index.html)
+
+

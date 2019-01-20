@@ -51,32 +51,32 @@ var bonbon
 
 
 function preload() { //pour charger les sons
-    sound1 = loadSound("../assets/son.wav"); //A
-    sound2 = loadSound("../assets/candy wraper.wav"); //B
-    sound3 = loadSound("../assets/candy.wav"); //C
-    sound4 = loadSound("../assets/son17.mp3"); //D
-    sound5 = loadSound("../assets/candy2.wav"); //E
-    sound6 = loadSound("../assets/candy3.wav"); //F
-    sound7 = loadSound("../assets/candy4.wav"); //G
-    sound8 = loadSound("../assets/candy5.wav"); //H
-    sound9 = loadSound("../assets/lollipop.wav"); //I
-    sound10 = loadSound("../assets/crunch.wav"); //J
-    sound11 = loadSound("../assets/sweet.mp3"); //K
-    sound12 = loadSound("../assets/candy now.wav"); //L
-    sound13 = loadSound("../assets/candy1.wav"); //M
-    sound14 = loadSound("../assets/son13.mp3"); //N
-    sound15 = loadSound("../assets/son14.mp3"); //O
-    sound16 = loadSound("../assets/son15.mp3"); //P
-    sound17 = loadSound("../assets/son16.mp3"); //Q
-    sound18 = loadSound("../assets/son18.wav") //R
-    sound19 = loadSound("../assets/19.wav"); // S
-    sound20 = loadSound("../assets/20.wav"); //T
-    sound21 = loadSound("../assets/son21.wav"); //U
-    sound22 = loadSound("../assets/son22.wav"); //V
-    sound23 = loadSound("../assets/son23.wav"); //W
-    sound24 = loadSound("../assets/son24.mp3"); //X
-    sound25 = loadSound("../assets/son25.mp3"); //Y
-    sound26 = loadSound('../assets/son26.mp3'); //Z
+    sound1 =  loadSound("assets/son.wav"); //A
+    sound2 =  loadSound("assets/candy wraper.wav"); //B
+    sound3 =  loadSound("assets/candy.wav"); //C
+    sound4 =  loadSound("assets/son17.mp3"); //D
+    sound5 =  loadSound("assets/candy2.wav"); //E
+    sound6 =  loadSound("assets/candy3.wav"); //F
+    sound7 =  loadSound("assets/candy4.wav"); //G
+    sound8 =  loadSound("assets/candy5.wav"); //H
+    sound9 =  loadSound("assets/lollipop.wav"); //I
+    sound10 = loadSound("assets/crunch.wav"); //J
+    sound11 = loadSound("assets/sweet.mp3"); //K
+    sound12 = loadSound("assets/candy now.wav"); //L
+    sound13 = loadSound("assets/candy1.wav"); //M
+    sound14 = loadSound("assets/son13.mp3"); //N
+    sound15 = loadSound("assets/son14.mp3"); //O
+    sound16 = loadSound("assets/son15.mp3"); //P
+    sound17 = loadSound("assets/son16.mp3"); //Q
+    sound18 = loadSound("assets/son18.wav") //R
+    sound19 = loadSound("assets/19.wav"); // S
+    sound20 = loadSound("assets/20.wav"); //T
+    sound21 = loadSound("assets/son21.wav"); //U
+    sound22 = loadSound("assets/son22.wav"); //V
+    sound23 = loadSound("assets/son23.wav"); //W
+    sound24 = loadSound("assets/son24.mp3"); //X
+    sound25 = loadSound("assets/son25.mp3"); //Y
+    sound26 = loadSound('assets/son26.mp3'); //Z
 
 }
 

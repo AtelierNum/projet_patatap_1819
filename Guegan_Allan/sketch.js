@@ -43,32 +43,32 @@ var circleX;
 //La fonction "preload" me permet de charger tous mes sons. Ceux-ci se trouvent dans le dossier "Assets".
 
 function preload() {
-    sound1 = loadSound("../assets/magic belt.wav");
-    sound2 = loadSound("../assets/boomerang.mp3");
-    sound3 = loadSound("../assets/thunder-storm.wav");
-    sound4 = loadSound("../assets/punch.wav");
-    sound5 = loadSound("../assets/clown horn.mp3");
-    sound6 = loadSound("../assets/r2d2-sound.wav");
-    sound7 = loadSound("../assets/pacman-dead.wav");
-    sound8 = loadSound("../assets/magic light.wav");
-    sound9 = loadSound("../assets/alarm prison.wav");
-    sound10 = loadSound("../assets/sea.wav");
-    sound11 = loadSound("../assets/magic fire.mp3");
-    sound12 = loadSound("../assets/roar hulk.wav");
-    sound13 = loadSound("../assets/batman-transition.mp3");
-    sound14 = loadSound("../assets/feu d'artifice.mp3");
-    sound15 = loadSound("../assets/purple.wav");
-    sound16 = loadSound("../assets/balancoire.wav");
-    sound17 = loadSound("../assets/wheee.wav");
-    sound18 = loadSound("../assets/sizzles tv.wav");
-    sound19 = loadSound("../assets/petit coup de maracas.mp3");
-    sound20 = loadSound("../assets/snow.wav");
-    sound21 = loadSound("../assets/pen.wav");
-    sound22 = loadSound("../assets/ultrasound.wav");
-    sound23 = loadSound("../assets/light wave.wav");
-    sound24 = loadSound("../assets/i see you.wav");
-    sound25 = loadSound("../assets/fast electro.wav");
-    sound26 = loadSound("../assets/rond rouge.wav")
+    sound1 =  loadSound("assets/magic belt.wav");
+    sound2 =  loadSound("assets/boomerang.mp3");
+    sound3 =  loadSound("assets/thunder-storm.wav");
+    sound4 =  loadSound("assets/punch.wav");
+    sound5 =  loadSound("assets/clown horn.mp3");
+    sound6 =  loadSound("assets/r2d2-sound.wav");
+    sound7 =  loadSound("assets/pacman-dead.wav");
+    sound8 =  loadSound("assets/magic light.wav");
+    sound9 =  loadSound("assets/alarm prison.wav");
+    sound10 = loadSound("assets/sea.wav");
+    sound11 = loadSound("assets/magic fire.mp3");
+    sound12 = loadSound("assets/roar hulk.wav");
+    sound13 = loadSound("assets/batman-transition.mp3");
+    sound14 = loadSound("assets/feu d'artifice.mp3");
+    sound15 = loadSound("assets/purple.wav");
+    sound16 = loadSound("assets/balancoire.wav");
+    sound17 = loadSound("assets/wheee.wav");
+    sound18 = loadSound("assets/sizzles tv.wav");
+    sound19 = loadSound("assets/petit coup de maracas.mp3");
+    sound20 = loadSound("assets/snow.wav");
+    sound21 = loadSound("assets/pen.wav");
+    sound22 = loadSound("assets/ultrasound.wav");
+    sound23 = loadSound("assets/light wave.wav");
+    sound24 = loadSound("assets/i see you.wav");
+    sound25 = loadSound("assets/fast electro.wav");
+    sound26 = loadSound("assets/rond rouge.wav")
 
 }
 
