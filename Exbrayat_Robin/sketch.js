@@ -19,32 +19,32 @@ var system;
 
 
 function preload() {
-    sound1 = loadSound('../assets/217.mp3');
-    sound2 = loadSound('../assets/JUST_clap.wav');
-    sound3 = loadSound('../assets/JUST_kick.wav');
-    sound4 = loadSound('../assets/200.mp3');
-    sound5 = loadSound('../assets/elect.mp3');
-    sound6 = loadSound('../assets/JUST_kick_1.wav');
-    sound7 = loadSound('../assets/switch2.mp3');
-    sound8 = loadSound('../assets/JUST_rim.wav');
-    sound9 = loadSound('../assets/1043.mp3');
-    sound10 = loadSound('../assets/Bpm09_1.mp3');
-    sound11 = loadSound('../assets/10432.mp3');
-    sound12 = loadSound('../assets/1.mp3');
-    sound13 = loadSound('../assets/2767.mp3');
-    sound14 = loadSound('../assets/226.mp3');
-    sound15 = loadSound('../assets/cool-sound.mp3')
-    sound16 = loadSound('../assets/Bpm095_4.mp3')
-    sound17 = loadSound('../assets/JUST_snare_1.wav')
-    sound18 = loadSound('../assets/FFL.mp3')
-    sound19 = loadSound('../assets/sfx_die.mp3')
-    sound20 = loadSound('../assets/LL_.wav')
-    sound21 = loadSound('../assets/4.mp3')
-    sound22 = loadSound('../assets/231.mp3')
-    sound23 = loadSound('../assets/Bpm095_5.mp3')
-    sound24 = loadSound('../assets/Bpm095_2.mp3')
-    sound25 = loadSound('../assets/3276.mp3')
-    sound26 = loadSound('../assets/firework_4.mp3')
+    sound1 =  loadSound('assets/217.mp3');
+    sound2 =  loadSound('assets/JUST_clap.wav');
+    sound3 =  loadSound('assets/JUST_kick.wav');
+    sound4 =  loadSound('assets/200.mp3');
+    sound5 =  loadSound('assets/elect.mp3');
+    sound6 =  loadSound('assets/JUST_kick_1.wav');
+    sound7 =  loadSound('assets/switch2.mp3');
+    sound8 =  loadSound('assets/JUST_rim.wav');
+    sound9 =  loadSound('assets/1043.mp3');
+    sound10 = loadSound('assets/Bpm09_1.mp3');
+    sound11 = loadSound('assets/10432.mp3');
+    sound12 = loadSound('assets/1.mp3');
+    sound13 = loadSound('assets/2767.mp3');
+    sound14 = loadSound('assets/226.mp3');
+    sound15 = loadSound('assets/cool-sound.mp3')
+    sound16 = loadSound('assets/Bpm095_4.mp3')
+    sound17 = loadSound('assets/JUST_snare_1.wav')
+    sound18 = loadSound('assets/FFL.mp3')
+    sound19 = loadSound('assets/sfx_die.mp3')
+    sound20 = loadSound('assets/LL_.wav')
+    sound21 = loadSound('assets/4.mp3')
+    sound22 = loadSound('assets/231.mp3')
+    sound23 = loadSound('assets/Bpm095_5.mp3')
+    sound24 = loadSound('assets/Bpm095_2.mp3')
+    sound25 = loadSound('assets/3276.mp3')
+    sound26 = loadSound('assets/firework_4.mp3')
 }
 
 function setup() {

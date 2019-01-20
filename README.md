@@ -141,12 +141,77 @@ La gamme de couleur évolue au cours des touches.
 
 ## Marie Jollivet Picquart
 
-
 <img src="Jollivet_Marie/patatap.gif" width="400" height="240" />
 
 Le thème du Papatap est centré sur les cabarets parisiens. La couleur prédominante étant le rouge pour rappeler l’univers et les tenus excentriques. Le rouge est également significatif de sensualité.
 Les voix de femmes dans quelques sons alimentent l’univers autour des cabarets. 
 
 [Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Jollivet_Marie/index.html)
+
+
+## Léa Genais
+
+<img src="Genais_Lea/animation.gif" width="400" height="240" />
+
+J'ai voulu présenter le monde du jeu vidéo, plus particulièrement celui de league of legend.
+Tous les sons proviennent de 5 champions différents: Ahri, Sona, Kai'sa, Evelyn, elles ont toute un point commun qui est la musique.
+J'ai voulu marier au mieux son et animation en recopiant quelques mouvements que les champions ont lorsqu'ils attaquent, cela a été compliqué car il fallait garder des animations simples. 
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Genais_Lea/index.html)
+
+
+## Ulysse Ducamp
+
+<img src="Ducamp_Ulysse/GIF_Ulysse.gif" width="400" height="240" />
+
+J’ai fait mes 26 animations sans savoir vers quel univers je me dirigeais en essayant simplement que mes sons et mes animations soient cohérents entre eux. Une atmosphère douce et obscure s’est petit à petit créée évoquant pour ma part les profondeurs de la mer avec quelques touches de jaune qui rappellent le sous-marin et le rouge qui vient en réponse au bleu, symbolisant la chaleur et le froid qui se cherchent et se rejoignent.  
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Ducamp_Ulysse/index.html)
+
+
+## Clara Mahe
+
+<img src="Mahe_Clara/gif.gif" width="400" height="240" />
+
+A travers ces différentes animations, j’ai voulu réaliser un univers composé de formes géométriques simples, qui se répètent de différentes manières, ce qui créé un ensemble cohérents.
+Chaque animation possède une des six couleurs choisies ce qui créé une cohérence dans le visuel.
+Mon but était de créer un ensemble harmonieux, peu agressif au niveau des couleurs pour compenser avec le mouvement des animations.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Mahe_Clara/index.html)
+
+
+## Clara Mahe
+
+<img src="Mahe_Clara/gif.gif" width="400" height="240" />
+
+A travers ces différentes animations, j’ai voulu réaliser un univers composé de formes géométriques simples, qui se répètent de différentes manières, ce qui créé un ensemble cohérents.
+Chaque animation possède une des six couleurs choisies ce qui créé une cohérence dans le visuel.
+Mon but était de créer un ensemble harmonieux, peu agressif au niveau des couleurs pour compenser avec le mouvement des animations.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Mahe_Clara/index.html)
+
+
+## Robin Exbrayat
+
+<img src="Exbrayat_Robin/Robin_Exbrayat.gif" width="400" height="240" />
+
+Mon patatap à pour thème la fête, je vois dedans des animations colorées.
+
+Première ligne sont des sons musicaux pour s’amuser.
+Deuxième ligne a pour thème les feux d’artifice.
+Troisième ligne représente des sons plus épiques, psyché et plus long.
+
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Exbrayat_Robin/index.html)
+
+
+## Aurélien Colloc
+
+<img src="Colloc_Aurelien/Patatap.gif" width="400" height="240" />
+
+L’univers de mon Patatap s’inspire de l’univers «New Rétro Wave*»des années 80 avec les néons, le coté «rétrogaming» ou encore l’ambiance «Miami Vice» et le jeux de couleurs fluo de l’atmosphère rétro-futuriste. (rose, violet, rouge, bleu, blanc)
+
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Colloc_Aurelien/index.html)
 
 

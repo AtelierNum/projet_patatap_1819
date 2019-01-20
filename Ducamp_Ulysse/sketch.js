@@ -64,32 +64,32 @@ var swooshclapV2xpos = [],
 
 
 function preload() {
-    lueur = loadSound('../assets/lueur.wav');
-    soncornet = loadSound('../assets/soncornet.wav');
-    heart = loadSound('../assets/heart.wav');
-    ondes = loadSound("../assets/ambiance.wav");
-    bouton = loadSound("../assets/bouton.wav");
-    boutonreverse = loadSound("../assets/boutonreverse.wav");
-    gong = loadSound('../assets/gong.wav');
-    sonar = loadSound('../assets/sonar.wav');
-    transformer = loadSound('../assets/transformer.wav');
-    martellement = loadSound('../assets/martellement.wav');
-    gun = loadSound('../assets/gun2.wav');
-    tinlin = loadSound('../assets/tinlin.wav');
-    tinlinrouge = loadSound('../assets/tinlinrouge.wav');
-    ame = loadSound('../assets/voix.wav');
-    harpe = loadSound('../assets/harpe.wav');
-    harpe2 = loadSound('../assets/harpe2.wav');
-    debranchement = loadSound('../assets/debranchement.wav');
-    roulement = loadSound('../assets/roulement.wav');
-    virage = loadSound('../assets/virage.wav');
-    allumage = loadSound('../assets/allumageshort.wav');
-    engine = loadSound('../assets/engineshort.wav');
-    dm = loadSound('../assets/12dm.wav');
-    tadim = loadSound('../assets/tadim.wav');
-    swoosh = loadSound('../assets/swoosh.mp3');
-    newtilin = loadSound('../assets/newtinlinshort.wav');
-    swooshclap = loadSound('../assets/swooshclap.wav');
+    lueur = loadSound('assets/lueur.wav');
+    soncornet = loadSound('assets/soncornet.wav');
+    heart = loadSound('assets/heart.wav');
+    ondes = loadSound("assets/ambiance.wav");
+    bouton = loadSound("assets/bouton.wav");
+    boutonreverse = loadSound("assets/boutonreverse.wav");
+    gong = loadSound('assets/gong.wav');
+    sonar = loadSound('assets/sonar.wav');
+    transformer = loadSound('assets/transformer.wav');
+    martellement = loadSound('assets/martellement.wav');
+    gun = loadSound('assets/gun2.wav');
+    tinlin = loadSound('assets/tinlin.wav');
+    tinlinrouge = loadSound('assets/tinlinrouge.wav');
+    ame = loadSound('assets/voix.wav');
+    harpe = loadSound('assets/harpe.wav');
+    harpe2 = loadSound('assets/harpe2.wav');
+    debranchement = loadSound('assets/debranchement.wav');
+    roulement = loadSound('assets/roulement.wav');
+    virage = loadSound('assets/virage.wav');
+    allumage = loadSound('assets/allumageshort.wav');
+    engine = loadSound('assets/engineshort.wav');
+    dm = loadSound('assets/12dm.wav');
+    tadim = loadSound('assets/tadim.wav');
+    swoosh = loadSound('assets/swoosh.mp3');
+    newtilin = loadSound('assets/newtinlinshort.wav');
+    swooshclap = loadSound('assets/swooshclap.wav');
 }
 
 function setup() {
