@@ -44,33 +44,33 @@ var pg // une variable pour créer un calque dans lequel on va pouvoir dessiner
 
 
 function preload() {
-    soundamb = loadSound("assets/SOUNDAMBIANCE.wav");
-    sound1 = loadSound("assets/SOUND1.wav");
-    sound2 = loadSound("assets/SOUND2.wav");
-    sound3 = loadSound("assets/SOUND7.wav");
-    sound4 = loadSound("assets/SOUND4.wav");
-    sound5 = loadSound("assets/SOUND5.wav");
-    sound6 = loadSound("assets/SOUND6.wav");
-    sound7 = loadSound("assets/SOUND7.wav");
-    sound8 = loadSound("assets/SOUND8.wav");
-    sound9 = loadSound("assets/SOUND9.wav");
-    sound10 = loadSound("assets/SOUND10.wav");
-    sound11 = loadSound("assets/SOUND11.wav");
-    sound12 = loadSound("assets/SOUND12.wav");
-    sound13 = loadSound("assets/SOUND13.wav");
-    sound14 = loadSound("assets/SOUND14.wav");
-    sound15 = loadSound("assets/SOUND15.wav");
-    sound16 = loadSound("assets/SOUND16.wav");
-    sound17 = loadSound("assets/SOUND17.wav");
-    sound18 = loadSound("assets/SOUND18.wav");
-    sound19 = loadSound("assets/SOUND19.wav");
-    sound20 = loadSound("assets/SOUND20.wav");
-    sound21 = loadSound("assets/SOUND21.wav");
-    sound22 = loadSound("assets/SOUND22.wav");
-    sound23 = loadSound("assets/SOUND23.wav");
-    sound24 = loadSound("assets/SOUND24.wav");
-    sound25 = loadSound("assets/SOUND25.wav");
-    sound26 = loadSound("assets/SOUND26.wav");
+    soundamb = loadSound("Assets/SOUNDAMBIANCE.wav");
+    sound1 = loadSound("Assets/SOUND1.wav");
+    sound2 = loadSound("Assets/SOUND2.wav");
+    sound3 = loadSound("Assets/SOUND7.wav");
+    sound4 = loadSound("Assets/SOUND4.wav");
+    sound5 = loadSound("Assets/SOUND5.wav");
+    sound6 = loadSound("Assets/SOUND6.wav");
+    sound7 = loadSound("Assets/SOUND7.wav");
+    sound8 = loadSound("Assets/SOUND8.wav");
+    sound9 = loadSound("Assets/SOUND9.wav");
+    sound10 = loadSound("Assets/SOUND10.wav");
+    sound11 = loadSound("Assets/SOUND11.wav");
+    sound12 = loadSound("Assets/SOUND12.wav");
+    sound13 = loadSound("Assets/SOUND13.wav");
+    sound14 = loadSound("Assets/SOUND14.wav");
+    sound15 = loadSound("Assets/SOUND15.wav");
+    sound16 = loadSound("Assets/SOUND16.wav");
+    sound17 = loadSound("Assets/SOUND17.wav");
+    sound18 = loadSound("Assets/SOUND18.wav");
+    sound19 = loadSound("Assets/SOUND19.wav");
+    sound20 = loadSound("Assets/SOUND20.wav");
+    sound21 = loadSound("Assets/SOUND21.wav");
+    sound22 = loadSound("Assets/SOUND22.wav");
+    sound23 = loadSound("Assets/SOUND23.wav");
+    sound24 = loadSound("Assets/SOUND24.wav");
+    sound25 = loadSound("Assets/SOUND25.wav");
+    sound26 = loadSound("Assets/SOUND26.wav");
 }
 
 
