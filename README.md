@@ -99,6 +99,7 @@ Je suis partie sur le thème de la musique techno, avec des couleurs qui font pe
 
 [Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Prevost_Hugo/index.html)
 
+
 ## Luna Martel
 
 <img src="Martel_Luna/animation.gif" width="400" height="240" />
@@ -112,6 +113,13 @@ De plus les quelqu’une des formes font pensées aux vrais animaux, tel que le 
 [Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Martel_Luna/index.html)
 
 
+## Victor Pérouse
+
+<img src="Perouse_Victor/Patatap.gif" width="400" height="240" />
+
+Mon projet d'animation s'inscrit dans l'univers de la musique électro et des néons. Pour retranscrire ces ambiances j'utilise des couleurs vives sur un fond noir (surtout en poussant 1 ou 2 composantes à 255 et le reste à 0). J'utilise aussi beaucoup des contours fins et vides afin e m'approcher de stroboscopes ou de néons colorés.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Perouse_Victor/index.html)
 
 
 ## Elliot Chevalier
@@ -119,4 +127,26 @@ De plus les quelqu’une des formes font pensées aux vrais animaux, tel que le 
 <img src="Chevalier_Elliot/Patatap.gif" width="400" height="240" />
 
 [Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Chevalier_Elliot/index.html)
+
+
+## Martin Lostis
+
+<img src="Lostis_Martin/anim1.gif" width="400" height="240" />
+
+Un hommage à la jungle des années 90 et l'IDM avec les nombreux alias de Aphex Twin.
+La gamme de couleur évolue au cours des touches.
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Lostis_Martin/index.html)
+
+
+## Marie Jollivet Picquart
+
+
+<img src="Jollivet_Marie/patatap.gif" width="400" height="240" />
+
+Le thème du Papatap est centré sur les cabarets parisiens. La couleur prédominante étant le rouge pour rappeler l’univers et les tenus excentriques. Le rouge est également significatif de sensualité.
+Les voix de femmes dans quelques sons alimentent l’univers autour des cabarets. 
+
+[Cliquez ici pour jouer](https://ateliernum.github.io/projet_patatap_1819/Jollivet_Marie/index.html)
+
 
