@@ -61,7 +61,7 @@ function preload() { //pour charger les sons
     sound8 =  loadSound("assets/candy5.wav"); //H
     sound9 =  loadSound("assets/lollipop.wav"); //I
     sound10 = loadSound("assets/crunch.wav"); //J
-    sound11 = loadSound("assets/sweet.mp3"); //K
+    sound11 = loadSound("assets/Sweet.mp3"); //K
     sound12 = loadSound("assets/candy now.wav"); //L
     sound13 = loadSound("assets/candy1.wav"); //M
     sound14 = loadSound("assets/son13.mp3"); //N
